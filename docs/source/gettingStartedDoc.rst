@@ -6,7 +6,7 @@ Getting started
 Purpose and Vision of FINE
 **************************
 
-FINE is a framework for generating energy system optimization models. This might sound difficult, but the puporse is easy to understand:
+FINE is a framework for generating energy system optimization models. This might sound difficult, but the purpose is easy to understand:
 FINE is designed to answer pressing questions on future energy systems which include affordability, a high share of renewable energy
 sources and - most importantly - low CO\ :sub:`2` emissions.
 
@@ -33,7 +33,7 @@ is available in the advanced installation option. When selecting this options, t
 pip, jupyter etc. are remotely set and do not have to be manually set.
 
 A development platform which can be used to work with/on the code and which comes with Anaconda is Spyder.
-Other development platforms are PyCharm or Visua Studio Code.
+Other development platforms are PyCharm or Visual Studio Code.
 
 **FINE installation**
 
